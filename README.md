@@ -1,3 +1,8 @@
+[![wakatime](https://wakatime.com/badge/user/018e3aa3-c21e-4a33-9878-31cb64bd6fe1.svg)](https://wakatime.com/@018e3aa3-c21e-4a33-9878-31cb64bd6fe1)
+
+[![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=rucy&layout=compact&theme=dark)](https://wakatime.com/@rucy)
+
+
 #### AniList
 <img src="https://img.anili.st/user/6670746" width="500">
 
