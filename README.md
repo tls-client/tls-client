@@ -1,3 +1,13 @@
+#### BTC
+```
+bc1q4c34rwyr9z4a6z360eg99vnurp53arm0ajh3fv
+```
+
+#### ETH
+```
+0x5E753731768DE8235DCDa4E6042Cf0dAb5dED96f
+```
+
 #### AniList
 <img src="https://img.anili.st/user/6670746" width="500">
 
