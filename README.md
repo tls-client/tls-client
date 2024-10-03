@@ -11,6 +11,11 @@ bc1q4c34rwyr9z4a6z360eg99vnurp53arm0ajh3fv
 #### AniList
 <img src="https://img.anili.st/user/6670746" width="500">
 
+#### Status
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Noahreyli&theme=2077)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Noahreyli&theme=2077)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Noahreyli&theme=2077)
+
 #### PGP Public Key
 ```pgp
 -----BEGIN PGP PUBLIC KEY BLOCK-----
