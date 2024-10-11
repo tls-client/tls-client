@@ -1,15 +1,16 @@
 <h2 align="center">About Me </h2>
 
 ```python
-class About Me:
+class AboutMe:
     def __init__(self):
-        self.name  = "Rucy"
-        self.age   = 13
+        self.name = "Rucy"
+        self.age = 13
         self.email = "unkogang@proton.me"
         self.langs = {
-            "speak"   : ["Japanese", "English"]
-            "program" : ["Python", "JavaScript"]
+            "speak": ["Japanese", "English"],
+            "program": ["Python", "JavaScript"]
         }
+    
     def more(self):
         return self.name, self.age, self.email, self.langs
 ```
