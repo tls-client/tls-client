@@ -1,11 +1,17 @@
-#### BTC
-```
-bc1q4c34rwyr9z4a6z360eg99vnurp53arm0ajh3fv
-```
+<h2 align="center">About Me </h2>
 
-#### ETH
-```
-0x5E753731768DE8235DCDa4E6042Cf0dAb5dED96f
+```python
+class About Me:
+    def __init__(self):
+        self.name  = "Rucy"
+        self.age   = 13
+        self.email = "unkogang@proton.me"
+        self.langs = {
+            "speak"   : ["Japanese", "English"]
+            "program" : ["Python", "JavaScript"]
+        }
+    def more(self):
+        return self.name, self.age, self.email, self.langs
 ```
 
 #### AniList
