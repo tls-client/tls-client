@@ -33,4 +33,4 @@ tlCUA1LO2MS9R7C3XEWelQ4=
 =ngVs
 -----END PGP PUBLIC KEY BLOCK-----
 ```
-<a href="https://t.me/xvqsc" target="_blank"><img src="https://img.shields.io/badge/Telegram-%40xvqsc-28a8ea"></a>
+<a href="https://t.me/wappastei" target="_blank"><img src="https://img.shields.io/badge/Telegram-%40wappastei-28a8ea"></a>
