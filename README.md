@@ -5,7 +5,7 @@ class AboutMe:
     def __init__(self):
         self.name = "Rucy"
         self.age = 13
-        self.email = "unkogang@proton.me"
+        self.email = "tororo-dev@proton.me"
         self.langs = {
             "speak": ["Japanese", "English"],
             "program": ["Python", "JavaScript"]
@@ -33,4 +33,4 @@ tlCUA1LO2MS9R7C3XEWelQ4=
 =ngVs
 -----END PGP PUBLIC KEY BLOCK-----
 ```
-<a href="https://t.me/unkogang" target="_blank"><img src="https://img.shields.io/badge/Telegram-%40unkogang-28a8ea"></a>
+<a href="https://t.me/xvqsc" target="_blank"><img src="https://img.shields.io/badge/Telegram-%40xvqsc-28a8ea"></a>
