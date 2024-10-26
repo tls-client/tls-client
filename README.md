@@ -5,14 +5,13 @@ class AboutMe:
     def __init__(self):
         self.name = "Rucy"
         self.age = 13
-        self.email = "tororo-dev@proton.me"
         self.langs = {
             "speak": ["Japanese", "English"],
             "program": ["Python", "JavaScript"]
         }
     
     def more(self):
-        return self.name, self.age, self.email, self.langs
+        return self.name, self.age, self.langs
 ```
 
 #### AniList
