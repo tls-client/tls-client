@@ -4,7 +4,7 @@
 class AboutMe:
     def __init__(self):
         self.name = "Rucy"
-        self.age = 13
+        self.age = 14
         self.langs = {
             "speak": ["Japanese", "English"],
             "program": ["Python", "JavaScript"]
