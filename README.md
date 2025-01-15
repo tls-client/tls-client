@@ -32,4 +32,4 @@ w9z7pwBzzI7/inSoiawA9JkH
 =LyUF
 -----END PGP PUBLIC KEY BLOCK-----
 ```
-<a href="https://t.me/wappastei" target="_blank"><img src="https://img.shields.io/badge/Telegram-%40wappastei-28a8ea"></a>
+<a href="https://t.me/rucyontop" target="_blank"><img src="https://img.shields.io/badge/Telegram-%40rucyontop-28a8ea"></a>
